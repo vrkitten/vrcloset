@@ -8,7 +8,7 @@ these clothing types use a separate model because they are shared
 models for accessories, shoes, hats etc. will be included in the item file because they are unique
 
 
-
+https://gbatemp.net/threads/mario-kart-8-custom-track-tutorial.485627/
 
 'guide'
 
