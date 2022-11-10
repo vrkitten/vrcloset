@@ -19,7 +19,7 @@ switch prerequisits:
 pc:
 -toolbox
 -blender
--NHSE (or this abandoned project? https://github.com/FluffyFishGames/ACNHDesignPatternEditor/issues/42 With NHSE, you are only able to dump or import as .nhd/.nhpd abandoned project supports NHSE file types)
+-NHSE (or this abandoned project? https://github.com/FluffyFishGames/ACNHDesignPatternEditor/issues/42 With NHSE, you are only able to dump or import as .nhd/.nhpd (abandoned project supports NHSE file types) note on NHSE: These files are formatted the same way as .ACNH files though on the acpatterns.com website, so you can just rename the file to .ACNH/.nhd and you will be able to import/dump and still have them work)
 
 -------------------
 Find the item file name below that you wish to work with (no links are mine) 
