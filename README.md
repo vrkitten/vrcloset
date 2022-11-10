@@ -19,9 +19,10 @@ switch prerequisits:
 pc:
 -toolbox
 -blender
+-NHSE (or this abandoned project? https://github.com/FluffyFishGames/ACNHDesignPatternEditor/issues/42 With NHSE, you are only able to dump or import as .nhd/.nhpd abandoned project supports NHSE file types)
 
 -------------------
-Find the item file name below that you wish to work with (not mine) 
+Find the item file name below that you wish to work with (no links are mine) 
 https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit#gid=951117189
 (example used is casual chic dress-yellow, filename "TopsTexOnepieceAlongHCachecoeur0") 
 
@@ -31,11 +32,19 @@ https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8R
 
 -Item file
 "\nxdumptool\Model\TopsTexOnepieceAlongHCachecoeur0.Nin_NX_NVN.zs"
-NO MODEL INCLUDED
-mTops_Alb ()
-mTops_Mix ()
-mTops_Nm ()
-mTops_OP ()
+NO MODEL INCLUDED - hence the "text" in the file name
+mTops_Alb 
+mTops_Mix 
+mTops_Nm 
+mTops_OP 
+texture file type descriptions explained here
+https://ac-modding.com/ACNH/mods/editing_textures
+example of how these work
+https://blenderartists.org/t/nrm-textures/551235
+lots and lots of info about these file types here
+https://www.youtube.com/watch?v=gUkY8ZoRfuQ&ab_channel=ThePassiveAggressor
+good tutorial for acnh modding
+https://www.youtube.com/watch?v=677nQ-DQYQQ&ab_channel=RosieHorizons
 
 
 -Item model (THIS IS SEPARATE FOR SOME CLOTHING TYPES) 
@@ -54,3 +63,11 @@ textures are many separate files based on character customization
 
 
 'examples'
+
+nrm files/ nrm maps
+5 methods:
+height map conversion
+image renders
+shape
+hand drawn
+3D software
