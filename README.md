@@ -59,10 +59,17 @@ BagBackpackSchoolbag0.Nin_NX_NVN.zs
 15. copy into your atmosphere/contents/01006F8002326000/romFs/ folder and launch as normal
 
 
+as suugested on toolbox: "I suggest converting the model's .dae file to fbx before importing into a tool like blender using autodesk fbx converter.
+This is an issue specially with blender. Blender's dae importer is fairly buggy and fbx is much better supported."
+https://www.autodesk.com/developer-network/platform-technologies/fbx-converter-archives
 
-
-
-
+and 
+from https://github.com/KillzXGaming/Switch-Toolbox/issues/514
+1: export the model as dae and run it through fbx converter
+2: export the animation as smd
+3: install this plugin for blender
+4: import the fbx then import the smd
+https://developer.valvesoftware.com/wiki/Blender_Source_Tools
 
 
 
